@@ -1,0 +1,8 @@
+prefix=/home/tinker/catkin_ws/install
+
+Name: db_navigation
+Description: Description of db_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tinker/catkin_ws/install/lib 
+Requires: 
