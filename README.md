@@ -24,7 +24,6 @@ Thus far, the robot is able to move, map, and localize with LiDAR alone. The nex
 
 The delivery bot in its latest state (as of 04/26/2019)
 
-
 Software Systems
 
 
@@ -138,6 +137,11 @@ Power Systems
 * There are 2 power systems on the robot because when the motors draw too much current from the Li-Ion battery, it sometimes causes the tinker board to power off and the power bank does not have enough current for the motors
 * The LiDAR is powered from a USB port on the tinker board
 
+How to turn on
+
+1.) Plug in the yellow connector of the Li-Ion into the yellow connector on the PCB on the robot. This should turn on the lights on the Arduino.
+2.) Plug in the two usb cables next to the power bank into the power bank. This should turn on the tinker board.
+3.) In order to check the status of the Li-ion plug in the Li-ion charging input into the 7-segment LED.
 
 Lessons learned:
 * Power Systems:
