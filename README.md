@@ -139,9 +139,11 @@ Power Systems
 
 How to turn on
 
-1.) Plug in the yellow connector of the Li-Ion into the yellow connector on the PCB on the robot. This should turn on the lights on the Arduino.
-2.) Plug in the two usb cables next to the power bank into the power bank. This should turn on the tinker board.
-3.) In order to check the status of the Li-ion plug in the Li-ion charging input into the 7-segment LED.
+1. Plug in the yellow connector of the Li-Ion into the yellow connector on the PCB on the robot. This should turn on the lights on the Arduino.
+
+2. Plug in the two usb cables next to the power bank into the power bank. This should turn on the tinker board.
+
+3. In order to check the status of the Li-ion plug in the Li-ion charging input into the 7-segment LED.
 
 Lessons learned:
 * Power Systems:
